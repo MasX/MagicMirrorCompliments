@@ -5,40 +5,96 @@
                 "Jij maakt vandaag het verschil!",
                 "Een prachtige lach, voor een prachtige dag",
                 "Kijk je nog steeds naar de spiegel?",
-                "Hallo, ik ben El, Spieg El"
-
+                "Hallo, ik ben El, Spieg El",
+                "Jij bent limited edition",
+                "Je mag trots op jezelf zijn!",
+                "Was je nou naar me aan het knipogen? ;)",
+                "Je bent een kei",
+                "Op een schaal van 1 tot 10, ben jij een 11",
+                "Bedankt dat jij jij bent",
+                "\"Doe het, of doe het niet. Er is geen proberen.\" - Yoga",
+                "You never look back thinking 'I failed too much'. You look back thinking ' I didn’t try enough'",
+                "Je hoeft niet alles meteen goed te doen, maar je moet iets doen voordat het goed gaat",
+                "Train je? Eyy! Je bil voelt goed. Lauwww, je doet!",
+                "Spiegeltje, Spiegeltje, aan de wand. Wie is de mooiste van het hele land?",
+                "Jij bent de beste!",
+                "Jouw glas is helemaal vol",
+                "Je huid straalt!",
+                "Ziet er goed uit hoor!",
+                "Jouw lach ontneemt me de adem",
+                "Top hoor, die bottenstructuur",
+                "9 van de 10 tandartsen zijn het er over eens dat jij de beste bent!",
+                "Ga zo door!",
+                "Leuke kleren, waar heb je die gekocht?",
+                "Nog gesport de laatste tijd?",
+                "Je ziet er gezond uit!",
+                "Je bent een geschenk voor de mensen om je heen",
+                "Goede kop op die schouders!",
+                "Je bent nog beter dan een eenhoorn, omdat jij echt bestaat",
+                "Je bent als een teug frisse lucht",
+                "Je ouders verdienen een medaille",
+                "In jouw buurt zijn is als een kleine, vrolijke vakantie",
+                "Je bent een voorbeeld voor me",
+                "Je hebt de beste ideeën",
+                "Jij zou vaker bedankt moeten worden! Dus dank je wel!",
+                "Hoe kan het dat je er altijd goed uitziet?",
+                "Je zou trots op jezelf moeten zijn!",
+                "Je baas roept je naar haar kantoor, alleen maar zodat ze er dan cool uit ziet",
+                "\"There is no spoon\"- Neo (Matrix)",
+                "Ja. Jij bent de mooiste van het hele land.",
+                "Even denken hoor...",
+                "Ik zou hier wel de hele dag kunnen rondhangen",
+                "Als ik je een boks kon geven zou ik het doen",
+                "\"De wereld is als een spiegel: kijk er boos in en zij kijkt boos terug. Glimlach en zij glimlacht ook.\" - H. Samuel",
+                "\"Laat je gezicht altijd de spiegel zijn van je hart, maar zorg eerst voor een goed hart!\" - P. Bosmans",
+                "\"Als een spiegel niet helder is, komt er stof op.\" - T. Meng",
+                "\"Begin met de man in de spiegel. Begin bij jezelf. Kijk niet naar alle andere dingen. Begin bij jezelf.\" - M. Jackson",
+                "\"Lach in de spiegel. Doe dat elke ochtend en je zult een groot verschil in je leven beginnen te zien.\" - Y. Ono"
+                
         ],
         "morning" : [
                 "Wat zit je haar weer goed vandaag!",
+                "Begin de dag met een dansje",
                 "Begin de dag met een lach!",
                 "Het zal weer een prachtige dag worden!",
-                "Bereid je voor op een leuke dag!"
+                "Bereid je voor op een leuke dag!",
+                "Zo, jij bent er vroeg bij vandaag!",
+                "Guten Morgen, Guten Morgen, Guten Morgen Sonnenschein!",
+                "Dat schoonheidsslaapje heeft gewerkt hoor!",
+                "Maak je op voor een top dag",
+                "Hopelijk wordt je dag zo mooi als je gezicht"
         ],
         "afternoon" : [
                 "Nog even je werk afmaken...",
                 "Middag, niet de avond, niet de ochtend",
-                "Bijna etenstijd!"
+                "Bijna etenstijd!",
+                "Een dag hoeft nooit helemaal goed te zijn, maar er zit altijd iets goeds in de dag" 
         ],
         "evening" : [
                 "Eet smakelijk!",
                 "Even rust, heerlijk....",
-                "Jij hebt het verschil gemaakt!",
+                "Jij hebt een verschil gemaakt!",
                 "Was het eten lekker?",
-                "Hey sexy!"
+                "Hey sexy!",
+                "Goed de tanden poetsen...",
+                "Tot morgen!",
+                "Slaap zacht!"
         ],
         "....-01-01": ["Gelukkig nieuw jaar!"],
         "....-02-14": ["Jij bent mijn valentijn!"],
+        "....-05-04": ["May the force be with you"],
         "day_sunny": [
                 "Vandaag schijnt het zonnetje, net als jouw lach! :D",
                 "Geniet van deze mooie dag! :)",
                 "Vandaag is het zonnig",
                 "Hier komt de zon, dadiedadie",
                 "O zo'n mooie dag, ik hoop dat je naar buiten mag",
+                "Concurrentie voor je vandaag, de zon schijnt!" 
             ],
             "day_cloudy": [
                 "Buiten is het bewolkt, maar van jouw gezicht word ik wel vrolijk",
                 "Het mag dan wel bewolkt zijn, maar we maken er toch een mooie dag van!",
-                "Heb jij de zon gezien?...",
+                "Heb jij de zon gezien?..."
             ],
             "snow": [
                 "Sneeuw?!!!"
