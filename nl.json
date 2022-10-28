@@ -12,20 +12,43 @@
                 "Wat zit je haar weer goed vandaag!",
                 "Begin de dag met een lach!",
                 "Het zal weer een prachtige dag worden!",
-                "Is het niet een leuke dag?",
                 "Bereid je voor op een leuke dag!"
         ],
         "afternoon" : [
                 "Nog even je werk afmaken...",
                 "Middag, niet de avond, niet de ochtend",
-                "Is dit niet een leuke dag?",
                 "Bijna etenstijd!"
         ],
         "evening" : [
-                "En nu op naar de vergadering.",
                 "Eet smakelijk!",
                 "Even rust, heerlijk....",
                 "Jij hebt het verschil gemaakt!",
-                "Was het eten lekker?"
-        ]
+                "Was het eten lekker?",
+                "Hey sexy!"
+        ],
+        "....-01-01": ["Gelukkig nieuw jaar!"],
+        "....-02-14": ["Jij bent mijn valentijn!"],
+        "day_sunny": [
+                "Vandaag schijnt het zonnetje, net als jouw lach! :D",
+                "Geniet van deze mooie dag! :)",
+                "Vandaag is het zonnig",
+                "Hier komt de zon, dadiedadie",
+                "O zo'n mooie dag, ik hoop dat je naar buiten mag",
+            ],
+            "day_cloudy": [
+                "Buiten is het bewolkt, maar van jouw gezicht word ik wel vrolijk",
+                "Het mag dan wel bewolkt zijn, maar we maken er toch een mooie dag van!",
+                "Heb jij de zon gezien?...",
+            ],
+            "snow": [
+                "Sneeuw?!!!"
+            ],
+            "rain": [
+                "Heb je een paraplu mee?",
+                "Spetter spieter spater, lekker in de water!",
+                "Buiten regent het, maar jij bent het zonnetje in huis"
+            ],
+            "night_clear": [
+                "Een heldere hemel vannacht!"
+            ]
 }
